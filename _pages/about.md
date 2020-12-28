@@ -26,10 +26,6 @@ redirect_from:
 
 
 ## Recent News
-<h4>Recent News：</h4>
 <ul type="square">
  <li>We have a paper accepted by IEEE TPDS-SS-AI</li>
- <li>香蕉</li>
- <li>柠檬</li>
- <li>桔子</li>
 </ul>  
