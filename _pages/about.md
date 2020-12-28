@@ -24,15 +24,15 @@ redirect_from:
 
 <span > </span>
 
-## Research Interests
+# Research Interests
+My research interests fall in Networked Computer Systems, with special focuses on:
 <ul>
-	<span>My research interests fall in Networked Computer Systems, with special focuses on:</span>
-		<li><strong>High-Performance Networked Systems</strong>, including explorations of emerging communication technologies (e.g., RDMA) and  optimizations for efficient scheduling to simplify, speed up the data communication at scale</li>
-		<li><strong>Distributed Machine Learning Systems</strong>, searching for the system-level optimizations with the codesign of communication and computation to speed up the communication- and computation-intensive applications.</li>
+	<li><strong>High-Performance Networked Systems</strong>, including explorations of emerging communication technologies (e.g., RDMA) and  optimizations for efficient scheduling to simplify, speed up the data communication at scale</li>
+	<li><strong>Distributed Machine Learning Systems</strong>, searching for the system-level optimizations with the codesign of communication and computation to speed up the communication- and computation-intensive applications.</li>
 </ul>
 
 
-## Recent News
+# Recent News
 <ul type="square">
  <li>We have a paper accepted by IEEE TPDS-SS-AI</li>
 </ul>  
