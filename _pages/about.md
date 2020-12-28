@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Yang CHENG's homepage!"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<div style="text-align:justify; text-indent:2em;">
+<div style="text-align:justify; text-indent:1em;">
 				I'm a 5<sup>th</sup>-year (since 2016) Ph.D. student majoring in Computer Science & Technology at the <a href="http://www.cs.tsinghua.edu.cn">Department
 					of Computer Science and Technology</a>,
 				<a href="http://www.tsinghua.edu.cn">Tsinghua University</a>, supervised by
@@ -24,6 +24,16 @@ redirect_from:
 
 <span > </span>
 
+## Research Interests
+<div >
+	<ul>
+		<span>I'm broadly interested in the intersection of Computer Networks and System Architecture, including but not limited to:</span>
+		<ul style="width: 95%">
+			<li><strong>High-Performance Networked Systems</strong>, including explorations of emerging communication technologies (e.g., RDMA) and  optimizations for efficient scheduling to simplify, speed up the data communication at scale</li>
+			<li><strong>Distributed Machine Learning Systems</strong>, searching for the system-level optimizations with the codesign of communication and computation to speed up the communication- and computation-intensive applications.</li>
+		</ul>
+	</ul>
+</div>
 
 ## Recent News
 <ul type="square">
