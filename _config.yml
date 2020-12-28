@@ -83,12 +83,12 @@ author:
   name             : "Yang CHENG / 程 阳"
   avatar           : "profile.png"
   bio              : #"Your biography for the left-hand sidebar"
-  location         : "https://map.baidu.com/search/%E5%8C%97%E4%BA%AC%E5%B8%82/@12959220.000000002,4825334.499999999,12z?querytype=s&da_src=shareurl&wd=beijing&c=131&src=0&pn=0&sug=0&l=12&b=(12910068.000000002,4800854.499999999;13008372.000000002,4849814.499999999)&from=webmap&biz_forward=%7B%22scaler%22:2,%22styles%22:%22pl%22%7D&device_ratio=2"
+  location         : "(39°54′20″, 116°25′29″)"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=c27h8qAAAAAJ"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "newplan[at]163[dot]com"
+  researchgate     :  "https://www.researchgate.net/scientific-contributions/Yang-Cheng-2130363927"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://cn.linkedin.com/in/yang-cheng-cy"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
