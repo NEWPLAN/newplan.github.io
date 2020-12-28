@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<div style="text-align:justify; text-indent:2em;>
+<div style="text-align:justify; text-indent:2em;">
 				I'm a 5<sup>th</sup>-year (since 2016) Ph.D. student majoring in Computer Science & Technology at the <a href="http://www.cs.tsinghua.edu.cn">Department
 					of Computer Science and Technology</a>,
 				<a href="http://www.tsinghua.edu.cn">Tsinghua University</a>, supervised by
