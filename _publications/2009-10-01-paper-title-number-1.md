@@ -6,10 +6,10 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2009-10-01
 venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Junfeng Li, Dan Li, Yukai Huang, Yang Cheng, and Ruilin Ling, "Quick NAT: High performance NAT system on commodity platforms". 23th IEEE International Symposium on Local and Metropolitan Area Networks (LANMAN 2017), June, 2017, Osaka, Japan.'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Junfeng Li, Dan Li, Yukai Huang, Yang Cheng, and Ruilin Ling, "Quick NAT: High performance NAT system on commodity platforms". 23th IEEE International Symposium on Local and Metropolitan Area Networks (LANMAN 2017), June, 2017, Osaka, Japan.
