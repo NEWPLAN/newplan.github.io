@@ -16,14 +16,12 @@ Education
 
 Work experience
 ======
-* Oct.-* 2020: Research Intern
-  * ByteDance AI-Lab
-  * Duties included: Optimizing DML systems.
+* Oct.-* 2020: Research Intern @ ByteDance AI-Lab
+  * Designing and optimizing DML systems for elastic training on large-scale GPU clusters.
  <!-- * Supervisor: Professor Git --->
 
-* Apr.-Oct. 2018: Research Intern
-  * Microsoft Research Asia (MSRA)
-  * Duties included: Designing and optimizing deep learning workflows in the cloud
+* Apr.-Oct. 2018: Research Intern @ Microsoft Research Asia (MSRA)
+  * Designing and optimizing end-to-end deep learning workflows in the cloud
    <!-- * Supervisor: Professor Git --->
   
 
