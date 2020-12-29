@@ -1,11 +1,11 @@
 ---
 title: "Quick NAT: High performance NAT system on commodity platforms"
 collection: publications
-permalink: /publication/2017-06-QuickNet-title-number-1
+permalink: /publication/2017-06-QuickNAT-title-number-1
 excerpt: 'This paper presents the optimizations for existing Network Address Translation (NAT) systems, based on DPDK'
 date: 2017-06-01
 venue: '23th IEEE International Symposium on Local and Metropolitan Area Networks (LANMAN 2017), Osaka, Japan, June.'
-paperurl: '/publication/2017-06-QuickNet-title-number-1'
+paperurl: '[AuickNAT_lanman](/publication/2017-06-QuickNAT-title-number-1)'
 
 citation: 'Junfeng Li, Dan Li, Yukai Huang, Yang Cheng, and Ruilin Ling, "Quick NAT: High performance NAT system on commodity platforms". 23th IEEE International Symposium on Local and Metropolitan Area Networks (LANMAN 2017), June, 2017, Osaka, Japan.'
 ---
