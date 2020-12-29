@@ -22,6 +22,11 @@ redirect_from:
 				<a href="http://www.is.uestc.edu.cn/teachers.do?id=1095">Assoc. Prof. Erqiang Zhou</a>.
 </div>
 
+
+<div style="text-align:justify; text-indent:1em;">
+I worked previously in solving engineering challenges in practice, including but not limited to programming models,  system design, debugging and profiling, performance optimization, etc. Besides, I'm also interested in (It is more like an interest rather than professional experiences) applying emerging technologies. such as machine learning, to tackle the challanging yet practical problems in the areas of networks, systems, etc.
+</div>
+
 <span > </span>
 
 # Research Interests
