@@ -1,9 +1,9 @@
 ---
-title: "Security Foundation and Frontier of Cyberspace"
+title: "Next Generation Internet"
 collection: teaching assisttant
-type: "graduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "Institute for Network Sciences and Cyberspace, Tsinghua University"
+type: "undergraduate course"
+permalink: /teaching/2018-autumn-teaching-1
+venue: "Department of Computer Science and Technology, Tsinghua University"
 date: 2018-09-01
 location: "Beijing, China"
 ---
